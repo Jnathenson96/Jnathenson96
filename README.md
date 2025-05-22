@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Jared! <br/><a href="https://github.com/Jnathenson96">Programmer</a> and <a href="https://www.linkedin.com/in/jared-nathenson-129180195">Aspiring IT Professional</a>
 
-<!--
-**Jnathenson96/Jnathenson96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Labs and Projects:</h2>
 
-Here are some ideas to get you started:
+- [Active Directory Lab](https://github.com/Jnathenson96/AD_Lab/tree/main)
+- [User Experience Overhaul](https://mpr37x.axshare.com/#g=1&p=home)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Java</b>
+  - [Intelligent Tutoring System](https://github.com/Jnathenson96/CSE360Project1)
+- <b>PowerShell</b>
+  - [IN PROGRESS]
+- <b>Python</b>
+  - [Distributed Deep Learning (Offloading Tensor Mathematics)](https://github.com/Jnathenson96/distributed-deep-learning)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/goonaslippa/
+[linkedin]: https://www.linkedin.com/in/jared-nathenson-129180195
